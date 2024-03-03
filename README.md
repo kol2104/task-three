@@ -38,8 +38,4 @@ In the majority
 
 - Which challenges did you face during completion of the task?
 
-Write test using HttpClient
-
-- Which specific prompts you learned as a good practice to complete the task?
-
-Writing an error as prompts to correct generative code
+Integrate with Google maps
